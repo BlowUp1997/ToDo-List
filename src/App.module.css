@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Jua";
+    font-weight: normal;
+    font-style: normal;
+    src: url(./fonts/Jua-Regular.eot);
+  }
+
+.header_box{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size : 18px;
+    font-style: normal;
+    font-family: "Jua";
+}
+
+.todoImg{
+    height: 200px;
+    width: 200px;
+    margin-bottom : 40px;
+}
+
+.backgroundImg{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
